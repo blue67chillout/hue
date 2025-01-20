@@ -1,4 +1,4 @@
- project: "hue"
+project: "hue"
   title: ""  # Project title
   author: ""  # Your name
   discord: ""  # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
